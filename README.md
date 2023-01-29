@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JGrineau Im currently a part time student in Computer programming and Analysis.
-- 👀 I’m interested in web development and web design.
+- 👀 I am a highly skilled and motivated web developer with a passion for creating dynamic and user-friendly websites. 
 - 🌱 I’m currently learning Object orientated programming with Java, C++, HTML, CSS, Javascript and React. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/jpgrineau/
