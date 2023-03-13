@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JGrineau Im currently a part time student in Computer programming and Analysis.
+- 👋 Hi, I’m @JGrineau Im currently a part time student in Web Development and Internet applications
 - 
 - 🌱 I’m currently learning Object orientated programming with Java, HTML, CSS, Javascript and React. 
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/jpgrineau/
