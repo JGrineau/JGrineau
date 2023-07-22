@@ -4,6 +4,10 @@ Hello, I'm JP Grineau! 👋
 
 Welcome to my GitHub page! I'm a passionate developer who loves to create exciting web projects.
 
+## Personal Portfolio
+
+- [Portfolio](https://jpgrineau.com/)
+
 ## Skills
 
 - <i class="fab fa-html5"></i> HTML
@@ -21,5 +25,6 @@ Welcome to my GitHub page! I'm a passionate developer who loves to create exciti
 
 You can reach me at:
 
-- Email: your.email@example.com
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: jgrineau95@gmail.com
+- Twitter: [@jp_grineau](https://twitter.com/jp_grineau)
+- LinkedIn: [JP Grineau](https://www.linkedin.com/in/jpgrineau/)
