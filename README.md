@@ -28,6 +28,38 @@ Welcome to my GitHub page! I'm a passionate developer who loves to create exciti
 - [Project 2](link-to-your-project-2) - Short description of Project 2.
 <!-- Add more projects here -->
 
+## Rock, Paper, Scissors Game
+
+<div style="display: flex; justify-content: center;">
+  <div id="game-container" style="text-align: center;">
+    <button onclick="play('rock')">Rock</button>
+    <button onclick="play('paper')">Paper</button>
+    <button onclick="play('scissors')">Scissors</button>
+    <p id="result"></p>
+  </div>
+</div>
+
+<script>
+  function play(playerChoice) {
+    const choices = ["rock", "paper", "scissors"];
+    const computerChoice = choices[Math.floor(Math.random() * 3)];
+    const result = getResult(playerChoice, computerChoice);
+
+    document.getElementById("result").innerText = `You chose ${playerChoice}, computer chose ${computerChoice}. ${result}`;
+  }
+
+  function getResult(player, computer) {
+    if (player === computer) return "It's a tie!";
+    if ((player === "rock" && computer === "scissors") || 
+        (player === "paper" && computer === "rock") || 
+        (player === "scissors" && computer === "paper")) {
+      return "You win!";
+    } else {
+      return "You lose!";
+    }
+  }
+</script>
+
 ## Contact
 
 You can reach me at:
