@@ -24,7 +24,7 @@ Welcome to my GitHub page! I'm a passionate developer who loves to create exciti
 
 ## Projects
 
-- [Project 1](https://github.com/JGrineau/twitter-clone) - Short description of Project 1.
+- [Project 1](https://github.com/JGrineau/pokemon-api) - Short description of Project 1.
 - [Project 2](link-to-your-project-2) - Short description of Project 2.
 <!-- Add more projects here -->
 
