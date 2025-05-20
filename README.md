@@ -27,12 +27,12 @@ Welcome to my GitHub page! I'm a passionate developer who loves to create exciti
 - [Pokemon API](https://github.com/JGrineau/pokemon-api) - This Pokémon API is a web application designed to allow users to browse through a list of Pokémon, view details, and favourite their top choices. Users can log in to save their favourite Pokémon, ensuring their list is accessible whenever they return.
 - [Visual Timers](https://github.com/JGrineau/visual-timers) - This repository is a growing collection of beautiful, minimal visual timers created using Vanilla JavaScript, HTML, and CSS. These timers are designed to be recorded and uploaded as YouTube videos, useful for:
 
-Pomodoro sessions
-Study focus timers
-Meditation
-Exercise and breaks
-Classroom activities
-And more!
+    Pomodoro sessions
+    Study focus timers
+    Meditation
+    Exercise and breaks
+    Classroom activities
+    And more!
 <!-- Add more projects here -->
 
 ## Contact
